@@ -1,3 +1,3 @@
-# Project 2 Flexbox
+# Project 3 CSS Grid
 
-https://angelaho217.github.io/comp584-project2-AH/
+https://angelaho217.github.io/comp584-project3-AH/
